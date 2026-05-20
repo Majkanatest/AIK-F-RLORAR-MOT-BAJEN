@@ -30,3 +30,5 @@ for error in hämta_errors(rader):
     print(error)
 
 #NU VINNER VI MOT AIK
+
+####Det här ska vara smartare
