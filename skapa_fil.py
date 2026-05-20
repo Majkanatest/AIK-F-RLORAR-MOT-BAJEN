@@ -28,3 +28,5 @@ print(sammanfatta(rader))
 print("=== Error-rader ===")
 for error in hämta_errors(rader):
     print(error)
+
+#NU VINNER VI MOT AIK
