@@ -1,0 +1,8 @@
+INFO Tjänsten startad
+ERROR Kunde inte ansluta till databasen
+INFO Användare loggade in
+ERROR Timeout vid API-anrop
+WARNING Hög minnesanvändning
+ERROR Betalning misslyckades
+INFO Backup slutförd
+WARNING Disk nästan full
